@@ -1,6 +1,6 @@
 # intercom
 
-I have used vanilla javascript to calculate teh distance between customers and office. I have used Jasmine as testing framework to write  unit tests.
+I have used vanilla javascript to calculate the distance between customers and office. I have used JasmineJS as testing framework to write  unit tests.
 
 Results:  https://maheshgadge.github.io/intercom/
 
